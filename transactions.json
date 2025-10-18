@@ -1,0 +1,14 @@
+[
+    {
+        "type": "Income",
+        "amount": 4000,
+        "source/category": "Salary",
+        "date": "2006-08-05"
+    },
+    {
+        "type": "Expense",
+        "amount": 100,
+        "source/category": "Food",
+        "date": "2"
+    }
+]
